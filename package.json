@@ -1,0 +1,25 @@
+{
+  "name": "dotchain",
+  "version": "1.0.0",
+  "description": "Dotchain",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc -w",
+    "start": "tsc && node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isladot/Dotchain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isladot/Dotchain/issues"
+  },
+  "homepage": "https://github.com/isladot/Dotchain#readme",
+  "devDependencies": {
+    "@types/node": "^16.7.1",
+    "typescript": "^4.3.5"
+  }
+}
